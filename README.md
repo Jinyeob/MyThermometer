@@ -2,13 +2,13 @@
 Arduino, Android - 체온계
 
 ## 핀
-* HC-06
+* HC-06 <br>
 VCC - 5V <br>
 GND - GND <br>
 TX - D2 <br>
 RX - D3 <br>
  
-* mlx90614
+* mlx90614 <br>
 VCC - 5V <br>
 GND - GND <br>
 SDA - A5 <br>
