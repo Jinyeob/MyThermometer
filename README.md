@@ -25,5 +25,5 @@ SCL - A4 <br>
  <br>
  
 ## 사진
-<img src="https://user-images.githubusercontent.com/37360089/75255302-0cccbd00-5825-11ea-9eb1-19ab4e4a3ad7.jpg" width="60%></img>
-<img src="https://user-images.githubusercontent.com/37360089/75255309-0e968080-5825-11ea-9a40-7bf64a0f3499.jpg" width="60%></img>
+<img src="https://user-images.githubusercontent.com/37360089/75255302-0cccbd00-5825-11ea-9eb1-19ab4e4a3ad7.jpg" width="60%"></img>
+<img src="https://user-images.githubusercontent.com/37360089/75255309-0e968080-5825-11ea-9a40-7bf64a0f3499.jpg" width="60%"></img>
